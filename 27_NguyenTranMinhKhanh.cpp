@@ -7,7 +7,7 @@ int main()
 <<<<<<< HEAD
 	cout << "conflict" << end;
 =======
-	cout << "conflict 2" << end;
+	cout << "conflict 3" << end;
 >>>>>>> a6f1975f51d2e8101c702a89ce573153235737d4
 	return 0;
 }
